@@ -1,0 +1,22 @@
+[
+    {
+        "id": null,
+        "description": "Arrivals",
+        "changeFlag": null
+    },
+    {
+        "id": null,
+        "description": "Departure",
+        "changeFlag": null
+    },
+    {
+        "id": null,
+        "description": "Departures",
+        "changeFlag": null
+    },
+    {
+        "id": null,
+        "description": "Not Applicable",
+        "changeFlag": null
+    }
+]

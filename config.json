@@ -1,0 +1,7 @@
+{
+    "development" : {
+        "host" : "localhost",
+        "port" : 9000,
+        "serverPort": 3000
+    }
+}

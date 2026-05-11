@@ -1,0 +1,130 @@
+[
+    {
+        "id": "KW10",
+        "description": "A. Kuwait"
+    },
+    {
+        "id": "DAF",
+        "description": "ADF Shops CJSC"
+    },
+    {
+        "id": "AERO",
+        "description": "AERO Region JSC"
+    },
+    {
+        "id": "DCB",
+        "description": "Dufry (Shanghai) Chongqing Branch"
+    },
+    {
+        "id": "DBAL",
+        "description": "Dufry Bali Indonesia"
+    },
+    {
+        "id": "BLG",
+        "description": "Dufry Belgrade"
+    },
+    {
+        "id": "BLG_FB",
+        "description": "Dufry Belgrade Navision F&B"
+    },
+    {
+        "id": "CAM",
+        "description": "Dufry Cambodia Ltd"
+    },
+    {
+        "id": "DCA",
+        "description": "Dufry Central Asia"
+    },
+    {
+        "id": "DCD",
+        "description": "Dufry ChengDu"
+    },
+    {
+        "id": "WTE",
+        "description": "Dufry East OOO"
+    },
+    {
+        "id": "TXS",
+        "description": "Dufry Emirates - Branch Sharjah"
+    },
+    {
+        "id": "DMA",
+        "description": "DUFRY HWG SHOPPING SDN. BHD."
+    },
+    {
+        "id": "IN02",
+        "description": "Dufry India Retail Private Limited"
+    },
+    {
+        "id": "DSH",
+        "description": "Dufry Shanghai"
+    },
+    {
+        "id": "LK10",
+        "description": "Dufry Shops Colombo Limited"
+    },
+    {
+        "id": "SOF",
+        "description": "Dufry Sofia EOOD"
+    },
+    {
+        "id": "DTJ",
+        "description": "Dufry Thomas Julie Korea"
+    },
+    {
+        "id": "DUA",
+        "description": "DUFRY UKRAINE LLC"
+    },
+    {
+        "id": "JO20",
+        "description": "JADFS"
+    },
+    {
+        "id": "JAZ",
+        "description": "Jazeera Airways K.S.C.P"
+    },
+    {
+        "id": "RSP",
+        "description": "LLC REGSTAER-SP (Pulkovo)"
+    },
+    {
+        "id": "RU03",
+        "description": "Nuance Basel"
+    },
+    {
+        "id": "BG03",
+        "description": "Nuance BG"
+    },
+    {
+        "id": "HK01",
+        "description": "Nuance-Watson (HK) Ltd"
+    },
+    {
+        "id": "MO01",
+        "description": "Nuance-Watson (Macau) Ltd"
+    },
+    {
+        "id": "SDI",
+        "description": "PT Sarinah Dufry International"
+    },
+    {
+        "id": "RSS",
+        "description": "RegStaer Ltd (Sheremetyevo)"
+    },
+    {
+        "id": "RSV",
+        "description": "RegStaer M Ltd (Vnukovo)"
+    },
+    {
+        "id": "AU01",
+        "description": "The Nuance Group (Australia) Pty Ltd"
+    },
+    {
+        "id": "SG01",
+        "description": "The Nuance Group (Singapore) Pte. Ltd"
+    },
+    {
+        "id": "IN01",
+        "description": "TNG (India) Pvt. Ltd."
+    }
+]

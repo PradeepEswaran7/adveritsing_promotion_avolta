@@ -1,0 +1,11 @@
+@function color($color-name){
+    @return var(--color-#{$color-name})
+}
+
+@function fontfamily($fontfamily-name){
+    @return var(--fontfamily-#{$fontfamily-name})
+}
+
+@function fontweight($fontweight-name){
+    @return var(--fontweight-#{$fontweight-name})
+}

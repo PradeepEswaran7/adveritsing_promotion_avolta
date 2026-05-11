@@ -1,0 +1,1374 @@
+[
+    {
+        "id": 190,
+        "displayName": "Alcoholic Beverages - Q4 2020 - Africa & Small locations",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 410,
+        "displayName": "Alcoholic Beverages - Spain Non Seasonal",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 411,
+        "displayName": "Alcoholic Beverages - Spain Seasonal",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 412,
+        "displayName": "Alcoholic Beverages - Q2/Q3 2020 -  Malta",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 413,
+        "displayName": "Alcoholic Beverages - Q1 2020 -  SDCA Canarias",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 415,
+        "displayName": "Alcoholic Beverages - Jordania JADFS",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 417,
+        "displayName": "Alcoholic Beverages - Q1 2020 - Southern Europe & Middle East - rest",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 419,
+        "displayName": "Alcoholic Beverages - Division 5 - Alcohol All Locations",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 430,
+        "displayName": "Alcoholic Beverages - Q1 2020 -  Sharjah",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 442,
+        "displayName": "Alcoholic Beverages - HPP - AIA Extra Perfumes-Tobacco-Liquor",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 443,
+        "displayName": "Alcoholic Beverages - HPP - AIA Intra Tobacco-Liquor",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 445,
+        "displayName": "Alcoholic Beverages - HPP - BCN TGLI M3 T510 (T2)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 446,
+        "displayName": "Alcoholic Beverages - HPP - ALICANTE T600",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 447,
+        "displayName": "Alcoholic Beverages - HPP - BCN TGLI T550 (T1)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 448,
+        "displayName": "Alcoholic Beverages - HPP - IBIZA T940",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 449,
+        "displayName": "Alcoholic Beverages - HPP - LAS PALMA T375 DE G. CANARIAS",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 450,
+        "displayName": "Alcoholic Beverages - HPP - MADRID NS I 444",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 451,
+        "displayName": "Alcoholic Beverages - HPP - MADRID T4 SATELITE 420",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 452,
+        "displayName": "Alcoholic Beverages - HPP - MADRID T-IV PRINCIPAL 401",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 453,
+        "displayName": "Alcoholic Beverages - HPP - MALAGA LLEGADAS T805",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 454,
+        "displayName": "Alcoholic Beverages - HPP - PALMA T260",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 455,
+        "displayName": "Alcoholic Beverages - HPP - TENERIFE SUR T334 P.ALTA",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 459,
+        "displayName": "Alcoholic Beverages - Q3 2020 - Turkey Price off",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 490,
+        "displayName": "Alcoholic Beverages - 12. Canada",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 500,
+        "displayName": "Alcoholic Beverages - 11. USA",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 610,
+        "displayName": "Alcoholic Beverages - Q3 2020 - WDFG España (all airports)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 611,
+        "displayName": "Alcoholic Beverages - Lojas Francas de Portugal",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 647,
+        "displayName": "Alcoholic Beverages - Cachaças - Rio de Janeiro",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 698,
+        "displayName": "Alcoholic Beverages - Rabekah- HPP's- GWN",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 699,
+        "displayName": "Alcoholic Beverages - Rabekah- HPP's- GWS",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 700,
+        "displayName": "Alcoholic Beverages - Rabekah-HPP's-LHRT2",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 701,
+        "displayName": "Alcoholic Beverages - Rabekah-HPP's-LHRT3",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 702,
+        "displayName": "Alcoholic Beverages - Rabekah-HPP's-LHRT4",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 703,
+        "displayName": "Alcoholic Beverages - Rabekah-HPP's- LHRT5",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 704,
+        "displayName": "Alcoholic Beverages - Rabekah-HPP's- Birmingham",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 705,
+        "displayName": "Alcoholic Beverages - Rabekah-HPP's-Glasgow",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 706,
+        "displayName": "Alcoholic Beverages - Rabekah-HPP's-Edinburgh",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 707,
+        "displayName": "Alcoholic Beverages - Rabekah-HPP's-MANT1",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 708,
+        "displayName": "Alcoholic Beverages - Rabekah-HPP's-MANT2",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 709,
+        "displayName": "Alcoholic Beverages - Rabekah-HPP's-STN",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 781,
+        "displayName": "Alcoholic Beverages - HPP - Lisbon - Lisbon Main Shop",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 782,
+        "displayName": "Alcoholic Beverages - HPP - Faro - Faro HPP",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 783,
+        "displayName": "Alcoholic Beverages - HPP - Sharjah - Main Shop",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 785,
+        "displayName": "Alcoholic Beverages - Meera - RegStaer Locations",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 787,
+        "displayName": "Alcoholic Beverages - Meera - Eastern Europe Excluding RegStaer",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 908,
+        "displayName": "Alcoholic Beverages - Meera Q4 2019 Eastern Eur Exc Reg",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 931,
+        "displayName": "Alcoholic Beverages - Meera Q4 2019 Central & Northern Europe",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 952,
+        "displayName": "Alcoholic Beverages - Liquor all stores WDFG KK",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 983,
+        "displayName": "Alcoholic Beverages - PT Liquor LPMF",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 984,
+        "displayName": "Alcoholic Beverages - PT Liquor Açores",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 987,
+        "displayName": "Alcoholic Beverages - P&O French Route",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 988,
+        "displayName": "Alcoholic Beverages - P&O Dutch Route",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 989,
+        "displayName": "Alcoholic Beverages - P&O Belgium Route",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 990,
+        "displayName": "Alcoholic Beverages - Meera Q1 2020 Central Northern Europe",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 991,
+        "displayName": "Alcoholic Beverages - Meera Q1 2020 Eastern Europe",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1009,
+        "displayName": "Alcoholic Beverages - HPP - AYT Terminal 2",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1010,
+        "displayName": "Alcoholic Beverages - HPP - AYT Terminal 1",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1011,
+        "displayName": "Alcoholic Beverages - HPP - MALAGA SALIDAS T801",
+        "usedForInvoice": true,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1024,
+        "displayName": "Alcoholic Beverages - EMEA Wine Project Cluster B",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1025,
+        "displayName": "Alcoholic Beverages - EMEA Wine Project Cluster C",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1026,
+        "displayName": "Alcoholic Beverages - Africa countries",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1041,
+        "displayName": "Alcoholic Beverages - CHACHU_ZRH Local ALC",
+        "usedForInvoice": true,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1044,
+        "displayName": "Alcoholic Beverages - CHACHU_BSL Dep Local ALC",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1045,
+        "displayName": "Alcoholic Beverages - CHACHU_BSL Arr Local ALC",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1072,
+        "displayName": "Alcoholic Beverages - Monica - Cardiff",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1141,
+        "displayName": "Alcoholic Beverages - ALC-IN",
+        "usedForInvoice": true,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1158,
+        "displayName": "Alcoholic Beverages - Div 5 ALL Locations - Jen's list updated 12/12/19",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1166,
+        "displayName": "Alcoholic Beverages - HPP - Milan Malpensa DF",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1169,
+        "displayName": "Alcoholic Beverages - Jen's Hudson Duty Free Div 5",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1170,
+        "displayName": "Alcoholic Beverages - Q3 2020 - South Central North Europe & ME - rest",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1171,
+        "displayName": "Alcoholic Beverages - Q3 2020 - Bulgaria",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1172,
+        "displayName": "Alcoholic Beverages - Q3 2020 - Wine Project Europe",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1173,
+        "displayName": "Alcoholic Beverages - Q3 2020 - Eastern Europe",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1175,
+        "displayName": "Alcoholic Beverages - PROMOVIRUS - GAMMA - CAT 20",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1181,
+        "displayName": "Alcoholic Beverages - PROMOVIRUS - SAP/TP.net - CAT 20",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1184,
+        "displayName": "Alcoholic Beverages - EMEA for Fixed Visibility",
+        "usedForInvoice": true,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1185,
+        "displayName": "Alcoholic Beverages - 1 EMEA for Fixed Visibility",
+        "usedForInvoice": true,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1186,
+        "displayName": "Alcoholic Beverages - PROMOVIRUS - NAVISION/TP.net - CAT 20",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1192,
+        "displayName": "Alcoholic Beverages - CLUSTER A - CAT20 DP",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1193,
+        "displayName": "Alcoholic Beverages - CLUSTER B - CAT20 DP",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1194,
+        "displayName": "Alcoholic Beverages - CLUSTER C - CAT20 DP",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1195,
+        "displayName": "Alcoholic Beverages - CLUSTER D - CAT20 DP",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1196,
+        "displayName": "Alcoholic Beverages - CLUSTER HN - CAT20 DP",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1198,
+        "displayName": "Alcoholic Beverages - Wine - All locations - copy",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1201,
+        "displayName": "Alcoholic Beverages - PROMOVIRUS - NonCorp (excl. GR & WDF UK) - CAT 20",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1203,
+        "displayName": "Alcoholic Beverages - TA3 Wine",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1270,
+        "displayName": "Alcoholic Beverages - COVID-19 LIQUIDATION PLAN - AMERICAS - ALL",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1271,
+        "displayName": "Alcoholic Beverages - COVID-19 LIQUIDATION PLAN - ASIA - ALL",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1278,
+        "displayName": "Alcoholic Beverages - Feira de Vinhos",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1296,
+        "displayName": "Alcoholic Beverages - EMEA - 1 bottle Allowance",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1297,
+        "displayName": "Alcoholic Beverages - Russia Departure",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1303,
+        "displayName": "Alcoholic Beverages - UK Airports 28th Aug 2020 Promos",
+        "usedForInvoice": true,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1322,
+        "displayName": "Alcoholic Beverages - 1. EMEA (1 Bottle Allowance)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1323,
+        "displayName": "Alcoholic Beverages - 2. EMEA (Russia Arrival)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1324,
+        "displayName": "Alcoholic Beverages - 3. EMEA Russia all shops",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1325,
+        "displayName": "Alcoholic Beverages - 4. EMEA (Serbia, Bulgaria & Ukraine)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1326,
+        "displayName": "Alcoholic Beverages - 5. EMEA (Greece DP)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1327,
+        "displayName": "Alcoholic Beverages - 6. EMEA (All exc 1 bottle & Greece DP & RUSSIA)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1328,
+        "displayName": "Alcoholic Beverages - 7. EMEA (All exc Greece DP & Jordan Arrivals & RU)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1329,
+        "displayName": "Alcoholic Beverages - UK Cluster 1st March inc Ferries& ETFR",
+        "usedForInvoice": true,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1345,
+        "displayName": "Alcoholic Beverages - Diageo UK - GBP",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1346,
+        "displayName": "Alcoholic Beverages - Diageo India & Sri Lanka - USD",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1348,
+        "displayName": "Alcoholic Beverages - Diageo GTME EMEA - EUR",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1352,
+        "displayName": "Alcoholic Beverages - MINIS - Americas (exc Canada) - 3x33%",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1353,
+        "displayName": "Alcoholic Beverages - MINIS - Americas (exc Canada) - Exc 3x33%",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1354,
+        "displayName": "Alcoholic Beverages - MINIS - EMEA – 5/20cl - (3x2)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1355,
+        "displayName": "Alcoholic Beverages - MINIS - EMEA - 5/20cl - (3x33%) - without RUSSIA",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1356,
+        "displayName": "Alcoholic Beverages - MINIS - EMEA - Wine – (3x33%)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1357,
+        "displayName": "Alcoholic Beverages - MINIS - EMEA – Wine - (3x2)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1358,
+        "displayName": "Alcoholic Beverages - Rabekah- All UK excluding Belfast & Arrivals",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1368,
+        "displayName": "Alcoholic Beverages - Santiago Promotions",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1373,
+        "displayName": "Alcoholic Beverages - 9. Americas 3x2 - Diageo GTME",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1374,
+        "displayName": "Alcoholic Beverages - 8. Americas_exc_Canada",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1375,
+        "displayName": "Alcoholic Beverages - 10. Americas 1 Bottle Allowance",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1376,
+        "displayName": "Alcoholic Beverages - 13. Americas exc Canada - SUP - Diageo GTME",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1377,
+        "displayName": "Alcoholic Beverages - 14. Americas - Diageo PUB",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1380,
+        "displayName": "Alcoholic Beverages - Alcoholic Beverages",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1403,
+        "displayName": "Alcoholic Beverages - 10. Australia",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1404,
+        "displayName": "Alcoholic Beverages - 11. India Bangalore - Arrivals",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1405,
+        "displayName": "Alcoholic Beverages - 12. India Bangalore - Departures",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1406,
+        "displayName": "Alcoholic Beverages - 13. Sri Lanka - Arrivals",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1407,
+        "displayName": "Alcoholic Beverages - 14. Sri Lanka - Departures",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1408,
+        "displayName": "Alcoholic Beverages - 16. Asia - All Shops",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1409,
+        "displayName": "Alcoholic Beverages - Paul Martin",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1410,
+        "displayName": "Alcoholic Beverages - 15. Americas 3x25",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1415,
+        "displayName": "Alcoholic Beverages - Ferries & ETUK",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1418,
+        "displayName": "Alcoholic Beverages - Rabekah Connolly- Liq- P&O,UK,ETF & JERSEY",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1419,
+        "displayName": "Alcoholic Beverages - Rabekah Connolly-Liquor- P&O & EUTUK",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1425,
+        "displayName": "Alcoholic Beverages - Wine Promos Non Airports",
+        "usedForInvoice": true,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1428,
+        "displayName": "Alcoholic Beverages - 17. Australia - 2FOR - Arrival",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1429,
+        "displayName": "Alcoholic Beverages - 18. Australia - 2FOR & 3FOR - Departure",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1464,
+        "displayName": "Alcoholic Beverages - Rabekah Connolly- Liq-ETF",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1484,
+        "displayName": "Alcoholic Beverages - HPP - LLC REGSTAER-SP (Pulkovo) - Walkthrough DF",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1485,
+        "displayName": "Alcoholic Beverages - HPP - RegStaer M Ltd (Vnukovo) - A2",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1486,
+        "displayName": "Alcoholic Beverages - HPP - RegStaer M Ltd (Vnukovo) - 1/4",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1487,
+        "displayName": "Alcoholic Beverages - HPP - RegStaer Ltd (Sheremetyevo) - E2",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1496,
+        "displayName": "Alcoholic Beverages - 16. Americas 3x33% - Wine Minis",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1497,
+        "displayName": "Alcoholic Beverages - 17. Americas 3x2 - Wine Minis",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1498,
+        "displayName": "Alcoholic Beverages - 18. Americas - Whisky Festival without PR",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1499,
+        "displayName": "Alcoholic Beverages - 19. Americas - Whisky Festival without PR & PUB",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1500,
+        "displayName": "Alcoholic Beverages - 20. Americas - Whisky Festival PUB",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1501,
+        "displayName": "Alcoholic Beverages - 21. EMEA - Whisky Festival - EMEA (exc. Turkey)",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1504,
+        "displayName": "Alcoholic Beverages - 8. EMEA All (excluding RUSSIA)",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1505,
+        "displayName": "Alcoholic Beverages - 1. Sharjah Departures",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1506,
+        "displayName": "Alcoholic Beverages - 2. Sharjah Arrivals",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1513,
+        "displayName": "Alcoholic Beverages - 21. Americas 2x20% - Diageo GTME",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1514,
+        "displayName": "Alcoholic Beverages - 22. Canada_Toronto",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1515,
+        "displayName": "Alcoholic Beverages - 23. Canada_Vancouver",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1518,
+        "displayName": "Alcoholic Beverages - 21. Americas - Summer Drinks without PR",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1519,
+        "displayName": "Alcoholic Beverages - 22. Americas - Summer Drinks without PR & PUB",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1520,
+        "displayName": "Alcoholic Beverages - 23. Americas - Summer Drinks PUB",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1521,
+        "displayName": "Alcoholic Beverages - EMEA - Summer Festival - EMEA (exc. Turkey)",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1523,
+        "displayName": "Alcoholic Beverages - 1. GP - Secundary shop - ALC - Americas exc Canada",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1524,
+        "displayName": "Alcoholic Beverages - 2. GP - Secundary shop - ALC - Canada",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1525,
+        "displayName": "Alcoholic Beverages - 3. GP - Main shop - ALC - Americas inc Canada",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1526,
+        "displayName": "Alcoholic Beverages - 4. GP - Main shop - ALC - Canada",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1527,
+        "displayName": "Alcoholic Beverages - 1. GP - Secondary shops - ALC - EMEA exc MEISC",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1528,
+        "displayName": "Alcoholic Beverages - 2. GP - Secondary shop - ALC - Sharjah",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1529,
+        "displayName": "Alcoholic Beverages - 3. GP - Secondary shops - ALC - India",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1530,
+        "displayName": "Alcoholic Beverages - 4. GP - Main shops - ALC - EMEA exc MEISC - Multi",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1531,
+        "displayName": "Alcoholic Beverages - 5. GP - Main shops - ALC - Sharjah",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1532,
+        "displayName": "Alcoholic Beverages - 6. GP - Main shops - ALC - India",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1533,
+        "displayName": "Alcoholic Beverages - 7. GP - Main shops - ALC - Colombo",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1534,
+        "displayName": "Alcoholic Beverages - 8. GP - Main shops - ALC - Australia",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1535,
+        "displayName": "Alcoholic Beverages - 9. GP - Main shops - ALC - Asia",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1536,
+        "displayName": "Alcoholic Beverages - 10. GP - Secondary shops - ALC - Asia",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1537,
+        "displayName": "Alcoholic Beverages - 5. GP - Secundary - ALC - Amer exc Canada exc PUB",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1538,
+        "displayName": "Alcoholic Beverages - 6. GP - Main - ALC - Amer exc Canada exc PUB",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1539,
+        "displayName": "Alcoholic Beverages - 7. GP - Main - ALC - BRAZIL",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1540,
+        "displayName": "Alcoholic Beverages - 8. GP - Secundary - ALC - BRAZIL",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1541,
+        "displayName": "Alcoholic Beverages - 9. GP - Main - ALC - AR & UR",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1542,
+        "displayName": "Alcoholic Beverages - 10. GP - Secundary - ALC - AR & UR",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1543,
+        "displayName": "Alcoholic Beverages - 8. GP - Main shops - ALC - EMEA exc MEISC - Single",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1546,
+        "displayName": "Alcoholic Beverages - India-Sri Lanka",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1552,
+        "displayName": "Alcoholic Beverages - MINIS - Americas (exc Canada) - Diageo restriction",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1582,
+        "displayName": "Alcoholic Beverages - Dufry Activate - Main Shops - EMEA",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1627,
+        "displayName": "Alcoholic Beverages - 10. EMEA (Greece DF)",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1628,
+        "displayName": "Alcoholic Beverages - MINIS - APAC – 5/20cl - (3x2)",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1629,
+        "displayName": "Alcoholic Beverages - MINIS - AUSTRALIA – 5/20cl - (3x2)",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1633,
+        "displayName": "Alcoholic Beverages - 1. New Amer exc Canada - SUP - Diageo GTME",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1634,
+        "displayName": "Alcoholic Beverages - 2. New Amer exc Canada 2x20% - Diageo GTME",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1635,
+        "displayName": "Alcoholic Beverages - 3. New Amer 2x20% Non Diageo",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1636,
+        "displayName": "Alcoholic Beverages - 10. Americas 1 Bottle Allowance Diageo GTME",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1637,
+        "displayName": "Alcoholic Beverages - 11. Americas 1 Bottle Allowance non Diageo",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1638,
+        "displayName": "Alcoholic Beverages - 4. New Amer_exc_Canada",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1639,
+        "displayName": "Alcoholic Beverages - Alc. Dufry Activate - Sec Shops - EMEA",
+        "usedForInvoice": true,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1640,
+        "displayName": "Alcoholic Beverages - HPP - Sabiha Gökçen SAW departures",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1655,
+        "displayName": "Alcoholic Beverages - test 1-shops",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1656,
+        "displayName": "Alcoholic Beverages - Test Plan 2023",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1657,
+        "displayName": "Alcoholic Beverages - test",
+        "usedForInvoice": false,
+        "usedForAdvertising": false,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1658,
+        "displayName": "Alcoholic Beverages - test test ",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1662,
+        "displayName": "Alcoholic Beverages - test test",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1665,
+        "displayName": "Alcoholic Beverages - test test ",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1669,
+        "displayName": "Alcoholic Beverages - TEST RESGRESSION TESTIN 7/03",
+        "usedForInvoice": true,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1670,
+        "displayName": "Alcoholic Beverages - TEST RESGRESSION TESTIN 7/03 - copy",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    },
+    {
+        "id": 1676,
+        "displayName": "Alcoholic Beverages - testing",
+        "usedForInvoice": false,
+        "usedForAdvertising": true,
+        "usedForPromotion": true
+    }
+]

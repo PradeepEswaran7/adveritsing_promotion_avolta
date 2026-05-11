@@ -1,0 +1,116 @@
+
+/* You can add global styles to this file, and also import other style files */
+@import "~ag-grid-community/styles/ag-grid.css";
+@import "~ag-grid-community/styles/ag-theme-alpine.css";
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
+
+
+html, body { height: 100%; background-color: color(app_background_colour);}
+body { margin: 0; font-family: fontfamily(secondary) }
+.action-button {
+    margin:auto;
+    border: none;
+    color: color(menu-bar-profile-circle_text_colour); ;
+    margin-top:2%;
+    padding:0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    opacity: 0.7;
+  }
+  
+  .action-button:hover {
+    opacity: 1;
+  }
+  
+  .action-button.edit {
+    background-color:var(--color-menu-bar-profile-circle_text_colour); 
+    color:var( --color-stepper_background_colour); /* Blue */
+  }
+  .action-button.update {
+    background-color:color(items_background_colour); 
+    color:color(change_stepper_background_colour);
+  }
+
+  .action-button.view {
+    color:color(menu-bar-profile-circle_background_colour);
+    border:none;
+    outline:none; 
+  }
+  
+  .action-button.delete {
+    background-color:color(items_background_colour); 
+    color:color(app_red_colour);/* Red */
+  }
+  
+  .action-button.cancel {
+    background-color:color(items_background_colour); 
+    color: color(menu-bar-profile-circle_background_colour);
+  }
+
+:root{
+    --color-primary:white;
+    --color-secondary: rgb(224, 223, 223);
+    --color-focused:black;
+    --color-unfocused:transparent;
+    --color-border-color:black;
+    --color-dark_font-color:black;
+    --color-bright_font-color:white;
+    --color-menubar_background_colour:#E2E2E2;
+    --color-menu-bar-profile-circle_background_colour:black;
+    --color-menu-bar-profile-circle_text_colour:white;
+    --color-menubar_hover_colour:#CCCCCC;
+    --color-app_background_colour:lightgray;
+    --color-app_red_colour:#f44336;
+    --color-rename_input_color: rgb(134, 133, 133);
+    --color-items_background_colour:white;
+    --color-tooltip_border_colour:whitesmoke;
+    --color-stepper_background_colour:#2196f3;
+    --color-change_stepper_background_colour:#4caf50;
+    --color-datepicker_container:#666;
+    --color-border_link_bgcolour:#f8f9fa;
+    --color-initial_bg:#f0f0f0;
+    --color-app_focus_color:orange;
+    --fontfamily-primary:Arial, Helvetica, sans-serif;
+    --fontfamily-secondary:Roboto, Helvetica Neue, sans-serif;
+    --fontfamily-card_bold_header_font:bold 14px 'Roboto', sans-serif; 
+    --fontfamily-card_subtitle_font:normal 12px 'Roboto', sans-serif;
+    --fontfamily-card_definition_font:normal 12px 'Roboto', sans-serif;
+    --fontfamily-app_regular_font:normal 12px 'Roboto', sans-serif;
+    --fontfamily-menu-bar-profile-circle_font:bold 10px 'Roboto', sans-serif;
+    --fontfamily-small_font:12px 'Roboto', sans-serif;
+    --fontfamily-primary_font: 20px 'Roboto', sans-serif;
+    --fontfamily-secondary_font: 20px 'Roboto', sans-serif;
+    --fontfamily-large_font: 50px 'Roboto', sans-serif;
+    --fontweight-bold:700px;
+    --fontweight-medium:500px;
+    --fontweight-normal:400px;
+    --fontsize-button_icons_size:45px;
+    --fontsize-primary_icons_size:20px;
+    --fontsize-small_icons_size:14px;
+}
+
+
+
+html, body { height: 100%; background-color: color(app_background_colour);}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+
+@function color($color-name){
+    @return var(--color-#{$color-name})
+}
+
+@function fontfamily($fontfamily-name){
+    @return var(--fontfamily-#{$fontfamily-name})
+}
+
+@function fontweight($fontweight-name){
+    @return var(--fontweight-#{$fontweight-name})
+}
+
+@function fontsize($fontsize-name){
+    @return var(--fontsize-#{$fontsize-name})
+}

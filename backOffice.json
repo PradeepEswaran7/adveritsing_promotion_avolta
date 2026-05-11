@@ -1,0 +1,17 @@
+[
+    {
+        "id": "DAFARM003001",
+        "description": "(DAF) Gyumri DF",
+        "changeFlag": null
+    },
+    {
+        "id": "DAFARM001001",
+        "description": "(DAF) Zvartnots DF",
+        "changeFlag": null
+    },
+    {
+        "id": "KW10KWT001001",
+        "description": "(KW10) Kuwait",
+        "changeFlag": null
+    }
+]

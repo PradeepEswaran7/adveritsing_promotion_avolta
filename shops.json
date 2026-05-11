@@ -1,0 +1,23 @@
+[
+    {
+        "id": "IE02IRE0010013",
+        "description": "(IE02) IRE Aquatique / Sportique Longford Forest (IELC)",
+        "sellingCurrency": "EUR",
+        "companyId": "IE02",
+        "changeFlag": "NO_CHANGE"
+    },
+    {
+        "id": "IE02IRE0010012",
+        "description": "(IE02) IRE Just Kids Longford Forest (IELB)",
+        "sellingCurrency": "EUR",
+        "companyId": "IE02",
+        "changeFlag": "NO_CHANGE"
+    },
+    {
+        "id": "IE02IRE0010011",
+        "description": "(IE02) IRE The Store Room Longford Forest (IELA)",
+        "sellingCurrency": "EUR",
+        "companyId": "IE02",
+        "changeFlag": "NO_CHANGE"
+    }
+]

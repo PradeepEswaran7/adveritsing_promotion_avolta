@@ -1,0 +1,87 @@
+[
+    {
+        "id": "0",
+        "description": "(0) UNKNOWN",
+        "changeFlag": null
+    },
+    {
+        "id": "10",
+        "description": "(10) Tobacco",
+        "changeFlag": null
+    },
+    {
+        "id": "20",
+        "description": "(20) Alcoholic Beverages",
+        "changeFlag": null
+    },
+    {
+        "id": "30",
+        "description": "(30) Food & Confectionery",
+        "changeFlag": null
+    },
+    {
+        "id": "40",
+        "description": "(40) Perfumes & Cosmetics",
+        "changeFlag": null
+    },
+    {
+        "id": "50",
+        "description": "(50) Watches, Jewelry, Accessories",
+        "changeFlag": null
+    },
+    {
+        "id": "60",
+        "description": "(60) Toys",
+        "changeFlag": null
+    },
+    {
+        "id": "70",
+        "description": "(70) Textiles, Leather, Luggage",
+        "changeFlag": null
+    },
+    {
+        "id": "80",
+        "description": "(80) Electronics",
+        "changeFlag": null
+    },
+    {
+        "id": "90",
+        "description": "(90) Other Goods",
+        "changeFlag": null
+    },
+    {
+        "id": "91",
+        "description": "(91) Literature & Publications",
+        "changeFlag": null
+    },
+    {
+        "id": "92",
+        "description": "(92) Souvenirs (local goods)",
+        "changeFlag": null
+    },
+    {
+        "id": "97",
+        "description": "(97) DUMMY",
+        "changeFlag": null
+    },
+    {
+        "id": "98",
+        "description": "(98) Petrol",
+        "changeFlag": null
+    },
+    {
+        "id": "99",
+        "description": "(99) External Service Providers",
+        "changeFlag": null
+    },
+    {
+        "id": "NA",
+        "description": "(NA) NOT APPLICABLE",
+        "changeFlag": null
+    },
+    {
+        "id": "OLD_1",
+        "description": "(OLD_1) DUMMY ICC",
+        "changeFlag": null
+    }
+]
